@@ -1,0 +1,10 @@
+,0
+0,"{'Anova': False, 'Kruskal': True, 'Dimension': '區域', 'val_col': 'VVE', 'Group': array(['尖石前山', '尖石後山', '五峰鄉'], dtype=object), 'Stat': np.float64(8.080391867065888), 'P-Value': np.float64(0.01759402481844309)}"
+1,"{'Anova': True, 'Kruskal': False, 'Dimension': '區域', 'val_col': 'VS', 'Group': array(['尖石前山', '尖石後山', '五峰鄉'], dtype=object), 'Stat': np.float64(4.822684026039057), 'P-Value': np.float64(0.016186506610996212)}"
+2,"{'Anova': True, 'Kruskal': False, 'Dimension': '區域', 'val_col': 'VS(不及動詞+主詞)', 'Group': array(['尖石前山', '尖石後山', '五峰鄉'], dtype=object), 'Stat': np.float64(5.19727722772277), 'P-Value': np.float64(0.012316800703437563)}"
+3,"{'Anova': False, 'Kruskal': True, 'Dimension': '學歷', 'val_col': 'VAP', 'Group': array(['國中', '大專', '高中'], dtype=object), 'Stat': np.float64(6.608860398860411), 'P-Value': np.float64(0.036720129026949516)}"
+4,"{'Anova': False, 'Kruskal': True, 'Dimension': '學歷', 'val_col': 'NEG,VPc', 'Group': array(['國中', '大專', '高中'], dtype=object), 'Stat': np.float64(6.024404761904749), 'P-Value': np.float64(0.04918323916253406)}"
+5,"{'Anova': False, 'Kruskal': True, 'Dimension': '學歷', 'val_col': 'NEG,AV', 'Group': array(['國中', '大專', '高中'], dtype=object), 'Stat': np.float64(12.0249244712991), 'P-Value': np.float64(0.0024480530699900215)}"
+6,"{'Anova': False, 'Kruskal': True, 'Dimension': '學歷', 'val_col': 'NEG VP(否定+及物動+受詞)', 'Group': array(['國中', '大專', '高中'], dtype=object), 'Stat': np.float64(6.949928835752907), 'P-Value': np.float64(0.030962935530573645)}"
+7,"{'Anova': False, 'Kruskal': True, 'Dimension': '學歷', 'val_col': 'NEG AV(否定+主+及物動詞)', 'Group': array(['國中', '大專', '高中'], dtype=object), 'Stat': np.float64(6.334830035514958), 'P-Value': np.float64(0.04211231691596678)}"
+8,"{'Anova': False, 'Kruskal': True, 'Dimension': '年齡區間', 'val_col': 'NEG,VPc', 'Group': array(['60~69', '50~59', '40~49', '70~79', '30~39'], dtype=object), 'Stat': np.float64(9.958101422387152), 'P-Value': np.float64(0.0411394032677052)}"

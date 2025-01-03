@@ -1,0 +1,3 @@
+,0
+0,"{'t-test': False, 'wilcoxon': True, 'Dimension': '從業', 'val_col': 'VP', 'pop_mean': np.float64(1.2666666666666666), 'Group': '公教', 'Group Mean': np.float64(2.625), 'Statistic': np.float64(31.0), 'P-Value': np.float64(0.0390625)}"
+1,"{'t-test': True, 'wilcoxon': False, 'Dimension': '年齡區間', 'val_col': 'VE(不及動詞+延伸受事)', 'pop_mean': np.float64(5.533333333333333), 'Group': '60~69', 'Group Mean': np.float64(7.5), 'Statistic': np.float64(2.054116340277235), 'P-Value': np.float64(0.047571482043164665)}"
